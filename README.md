@@ -62,7 +62,7 @@ Here are some key charts from the analysis:
 ![Average Price](avg_price_borough.png)
 
 ### Top 10 Hosts by Number of Listings
-![Top Hosts](top_hosts.png)
+![Top Hosts](top_10_host_listings.png)
 
 *(More charts available in the Jupyter Notebook)*
 
@@ -92,3 +92,4 @@ pip install pandas sqlalchemy matplotlib seaborn pymysql
 
 
 jupyter notebook notebook.ipynb
+
