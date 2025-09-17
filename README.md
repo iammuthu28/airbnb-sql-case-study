@@ -56,13 +56,13 @@ It demonstrates my skills in:
 Here are some key charts from the analysis:
 
 ### Listings by Room Type
-![Room Type Distribution](visuals/room_type_distribution.png)
+![Room Type Distribution](room_type_distribution.png)
 
 ### Average Price by Neighbourhood Group
-![Average Price](visuals/avg_price_borough.png)
+![Average Price](avg_price_borough.png)
 
 ### Top 10 Hosts by Number of Listings
-![Top Hosts](visuals/top_hosts.png)
+![Top Hosts](top_hosts.png)
 
 *(More charts available in the Jupyter Notebook)*
 
@@ -89,5 +89,6 @@ pip install pandas sqlalchemy matplotlib seaborn pymysql
 
 
 ## Run Jupyter Notebook:
+
 
 jupyter notebook notebook.ipynb
